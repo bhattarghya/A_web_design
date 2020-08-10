@@ -20,13 +20,13 @@ font-family: 'Lemonada', cursive;
 
   position: absolute;
   width: 210px;
-  margin: -9% auto auto 5% ;
+  margin: -190px auto auto 5% ;
 
 }
 #right_bee{
   position: absolute;
   width: 180px;
-  margin: 23% auto auto 16%;
+  margin: 430px auto auto 16%;
 }
 #plants{
 width: 1000px;
@@ -80,12 +80,12 @@ margin-bottom: 0px;
 #butterfly{
   position: absolute;
   width: 90px;
-  margin: 25% auto auto 1.5%;
+  margin: 480px auto auto 1.5%;
 }
 #butterfly2{
   position: absolute;
   width:130px;
-  margin: 13% auto auto -14%;
+  margin: 270px auto auto -14%;
 }
 #arghya{
   margin: 50px auto 12px auto;
@@ -108,7 +108,7 @@ width: 25%;
 #clouds{
   position: absolute;
   width: 150px;
-  margin: 10% 0 0 15%;
+  margin: 180px 0 0 15%;
  }
  #copyright{
    margin-bottom: unset;
